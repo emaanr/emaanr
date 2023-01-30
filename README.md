@@ -22,4 +22,4 @@ Hello, my name is Emaan Rana. I am a recent graduate from Virginia Tech where I 
 
 ### Left $\rightarrow$ Right
 
-Java | C | HTML | CSS | JavaScript | Tailwind CSS | React | Node | Git | Linux | Python | Vim | VSCode | SQL | Markdown | LaTeX
+Java | C | HTML | CSS | JavaScript | Tailwind CSS | React | Node | Git | Linux | Python | Vim | VSCode | SQL
