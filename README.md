@@ -18,8 +18,3 @@ Hello, my name is Emaan Rana. I am a recent graduate from Virginia Tech where I 
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</br>
-
-### Left $\rightarrow$ Right
-
-Java | C | HTML | CSS | JavaScript | Tailwind CSS | React | Node | Git | Linux | Python | Vim | VSCode | SQL
