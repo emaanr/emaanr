@@ -1,6 +1,6 @@
 # Emaan Rana
 
-Hello, my name is <r>Emaan Rana</r>. I am a recent graduate from <r>Virginia Tech</r> where I recieved a <r>Bachelor of Science in Computer Science</r>. I value depth of understanding and as a result really enjoy organizing information and teaching as a means for learning. In the same vein, I like writing guides, documentation, and detailed `README.md` files. Currently I find myself mostly interested in Full-Stack Development as well as Operating Systems, Compilers, and Game Development.
+Hello, my name is <span style="color: IndianRed">Emaan Rana</span>. I am a recent graduate from <span style="color: IndianRed">Virginia Tech</span> where I recieved a <span style="color: IndianRed">Bachelor of Science in Computer Science</span>. I value depth of understanding and as a result really enjoy organizing information and teaching as a means for learning. In the same vein, I like writing guides, documentation, and detailed `README.md` files. Currently I find myself mostly interested in Full-Stack Development as well as Operating Systems, Compilers, and Game Development. For more information, check out my [<span style="color: IndianRed">Website</span>](https://emaanr.github.io).
 
 # Languages & Tools
 
@@ -25,10 +25,6 @@ Hello, my name is <r>Emaan Rana</r>. I am a recent graduate from <r>Virginia Tec
 
 ### Left $\rightarrow$ Right
 
-<r>Java</r> | <r>C</r> | <r>HTML</r> | <r>CSS</r> | JavaScript | <r>Tailwind CSS</r> | React | Node | <r>Git</r> | Linux | Python | Vim | <r>VSCode</r> | Unity | SQL | <r>Markdown</r> | <r>LaTeX</r>
+<span style="color: IndianRed">Java</span> | <span style="color: IndianRed">C</span> | <span style="color: IndianRed">HTML</span> | <span style="color: IndianRed">CSS</span> | JavaScript | <span style="color: IndianRed">Tailwind CSS</span> | React | Node | <span style="color: IndianRed">Git</span> | Linux | Python | Vim | <span style="color: IndianRed">VSCode</span> | Unity | SQL | <span style="color: IndianRed">Markdown</span> | <span style="color: IndianRed">LaTeX</span>
 
 > **Key**: `Indian Red` font indicates "Proficiency" while `White` font indicates "Prior Experience".
-
-<style>
-  r { color: IndianRed }
-</style>
