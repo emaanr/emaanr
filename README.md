@@ -1,7 +1,3 @@
-<style>
-  r { color: IndianRed }
-</style>
-
 # Emaan Rana
 
 Hello, my name is <r>Emaan Rana</r>. I am a recent graduate from <r>Virginia Tech</r> where I recieved a <r>Bachelor of Science in Computer Science</r>. I value depth of understanding and as a result really enjoy organizing information and teaching as a means for learning. In the same vein, I like writing guides, documentation, and detailed `README.md` files. Currently I find myself mostly interested in Full-Stack Development as well as Operating Systems, Compilers, and Game Development.
@@ -32,3 +28,7 @@ Hello, my name is <r>Emaan Rana</r>. I am a recent graduate from <r>Virginia Tec
 <r>Java</r> | <r>C</r> | <r>HTML</r> | <r>CSS</r> | JavaScript | <r>Tailwind CSS</r> | React | Node | <r>Git</r> | Linux | Python | Vim | <r>VSCode</r> | Unity | SQL | <r>Markdown</r> | <r>LaTeX</r>
 
 > **Key**: `Indian Red` font indicates "Proficiency" while `White` font indicates "Prior Experience".
+
+<style>
+  r { color: IndianRed }
+</style>
