@@ -21,8 +21,7 @@ Hello, my name is `Emaan Rana`. I am a recent graduate from `Virginia Tech` wher
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </br>
 
-## Stats
+## Statistics
 
-| Statistics | Top Languages |
-|------------|---------------|
 | <img src="https://github-readme-stats.vercel.app/api?username=emaanr&count_private=true&theme=aura_dark&showicons=true&bg_color=00000000" height="200"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaanr&layout=compact&theme=aura_dark&showicons=true&bg_color=00000000"  height="200"> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
