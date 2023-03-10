@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Emaan Rana
 
-Hello, my name is `Emaan Rana`. I am a recent graduate from `Virginia Tech` where I received a `Bachelor of Science in Computer Science` with a `Minor in Human-Computer Interaction` and `Minor in Mathematics`. I value depth of understanding and as a result really enjoy organizing information and teaching as a means for learning. In the same vein, I like writing guides, documentation, and detailed `README.md` files. Currently I find myself mostly interested in `Full-Stack Development` as well as `Operating Systems`, `Compilers`, and `Game Development`. For more information, check out the links below.
+Hello, my name is `Emaan Rana`. I am a recent graduate from `Virginia Tech` where I received a `Bachelor of Science in Computer Science` with a `Minor in Human-Computer Interaction` and `Minor in Mathematics`. I value depth of understanding and as a result really enjoy organizing information and teaching as a means for learning. Currently I find myself mostly interested in `Full-Stack Development` as well as `Operating Systems`, `Compilers`, and `Game Development`. For more information, check out the links below.
 
 <div>
     <p align="center">
