@@ -2,11 +2,39 @@
 
 Hello, my name is `Emaan Rana`. I am a recent graduate from `Virginia Tech` where I received a `Bachelor of Science in Computer Science`. I value depth of understanding and as a result really enjoy organizing information and teaching as a means for learning. For more information, check out the links below.
 
+<style>
+    .linkedin {
+        width: 102px;
+        height: 31px;
+        background: url("img/linkedin.png") no-repeat;
+        display: inline-block;
+    }
+    .linkedin:hover {
+        width: 102px;
+        height: 31px;
+        background: url("img/linkedin-hover.png") no-repeat;
+        display: inline-block;
+    }
+    .website {
+        width: 69px;
+        height: 31px;
+        background: url("img/website.png") no-repeat;
+        display: inline-block;
+    }
+    .website:hover {
+        width: 69px;
+        height: 31px;
+        background: url("img/website-hover.png") no-repeat;
+        display: inline-block;
+    }
+</style>
+
 <div>
-    <p align="center">
-        <a href="https://www.linkedin.com/in/emaanr/" target="_blank"><img align="center" src="img/linkedin.png" /></a>
-        <a href="https://emaanr.github.io/" target="_blank"><img align="center" src="img/website.png" /></a>
+    <div align="center">
+        <a class="" href="https://www.linkedin.com/in/emaanr/" target="_blank"><div class="linkedin"></div></a>
+        <a class="" href="https://emaanr.github.io/" target="_blank"><div class="website"></div></a>
         <br/>
+    </div>
 </div>
 
 ## LeetCode
