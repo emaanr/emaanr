@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Emaan Rana
 
-Hello, my name is `Emaan Rana`. I am a recent graduate from `Virginia Tech` where I received a `Bachelor of Science in Computer Science`. I value depth of understanding and as a result really enjoy organizing information and teaching as a means for learning. For more information, check out the links below.
+Hello, my name is `Emaan Rana`. I am a recent graduate from `Virginia Tech` where I received a `Bachelor of Science in Computer Science`. I value depth of understanding, as a result of which I really enjoy organizing information and teaching as a means for learning. For more information, check out the links below.
 
 <div>
     <p align="center">
